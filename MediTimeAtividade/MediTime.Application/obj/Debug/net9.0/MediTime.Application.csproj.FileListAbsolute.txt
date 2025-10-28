@@ -1,0 +1,15 @@
+D:\MediTimeAtividade\MediTime.Application\bin\Debug\net9.0\MediTime.Application.deps.json
+D:\MediTimeAtividade\MediTime.Application\bin\Debug\net9.0\MediTime.Application.dll
+D:\MediTimeAtividade\MediTime.Application\bin\Debug\net9.0\MediTime.Application.pdb
+D:\MediTimeAtividade\MediTime.Application\bin\Debug\net9.0\MediTime.Domain.dll
+D:\MediTimeAtividade\MediTime.Application\bin\Debug\net9.0\MediTime.Domain.pdb
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.csproj.AssemblyReference.cache
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.AssemblyInfoInputs.cache
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.AssemblyInfo.cs
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.csproj.CoreCompileInputs.cache
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.34E10EAE.Up2Date
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.dll
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\refint\MediTime.Application.dll
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\MediTime.Application.pdb
+D:\MediTimeAtividade\MediTime.Application\obj\Debug\net9.0\ref\MediTime.Application.dll

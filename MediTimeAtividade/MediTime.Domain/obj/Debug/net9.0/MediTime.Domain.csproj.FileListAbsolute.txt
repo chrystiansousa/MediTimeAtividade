@@ -1,0 +1,11 @@
+D:\MediTimeAtividade\MediTime.Domain\bin\Debug\net9.0\MediTime.Domain.deps.json
+D:\MediTimeAtividade\MediTime.Domain\bin\Debug\net9.0\MediTime.Domain.dll
+D:\MediTimeAtividade\MediTime.Domain\bin\Debug\net9.0\MediTime.Domain.pdb
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.AssemblyInfoInputs.cache
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.AssemblyInfo.cs
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.csproj.CoreCompileInputs.cache
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.dll
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\refint\MediTime.Domain.dll
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\MediTime.Domain.pdb
+D:\MediTimeAtividade\MediTime.Domain\obj\Debug\net9.0\ref\MediTime.Domain.dll

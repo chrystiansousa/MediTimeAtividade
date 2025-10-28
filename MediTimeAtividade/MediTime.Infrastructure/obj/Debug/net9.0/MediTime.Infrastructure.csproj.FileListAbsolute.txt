@@ -1,0 +1,17 @@
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Infrastructure.deps.json
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Infrastructure.runtimeconfig.json
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Infrastructure.dll
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Infrastructure.pdb
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Domain.dll
+D:\MediTimeAtividade\MediTime.Infrastructure\bin\Debug\net9.0\MediTime.Domain.pdb
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.csproj.AssemblyReference.cache
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.AssemblyInfoInputs.cache
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.AssemblyInfo.cs
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.5000B692.Up2Date
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.dll
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\refint\MediTime.Infrastructure.dll
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.pdb
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\MediTime.Infrastructure.genruntimeconfig.cache
+D:\MediTimeAtividade\MediTime.Infrastructure\obj\Debug\net9.0\ref\MediTime.Infrastructure.dll
